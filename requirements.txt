@@ -84,8 +84,6 @@ python-multipart==0.0.9
 python-pptx==1.0.2
 pytorchvideo==0.1.5
 pytz==2025.2
-pywin32==311
-pywin32-ctypes==0.2.3
 PyYAML==6.0.2
 readme_renderer==44.0
 requests==2.32.5
@@ -129,3 +127,4 @@ wheel==0.45.1
 wrapt==1.17.3
 xlsxwriter==3.2.5
 yacs==0.1.8
+
